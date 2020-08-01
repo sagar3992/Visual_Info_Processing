@@ -38,9 +38,6 @@
 >
 > **(4) Results**
 >
-> ![A close up of a womans face Description automatically
-> generated](media/image5.jpeg){width="2.911111111111111in"
-> height="2.1904680664916887in"}
 >
 > Number of abnormal cells in the image are **37**
 
