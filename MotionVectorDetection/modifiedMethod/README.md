@@ -59,16 +59,13 @@
 2.  **Results**
 
 
-+------------------------------------+------------------------------------+
-| Frame 1                            | Frame 2                            |
-|                                    |                                    |
-|![](code/OneStopNoEnter1cor0249.bmp)|![](code/OneStopNoEnter1cor0251.bmp)|
-+====================================+====================================+
-| Difference Image                                                        |
-|                                                                         |
-|![](OutputImages/mdf1.jpg)                                                |
-+------------------------------------+------------------------------------+
-| Reconstructed Image                                                     |
-|                                                                         |
-| ![](OutputImages/f2'.jpg)                                               |
-+------------------------------------+------------------------------------+
+
+## Frame 1 
+![](code/OneStopNoEnter1cor0249.bmp)| 
+## Frame 2
+![](code/OneStopNoEnter1cor0251.bmp)
+## Difference Image                                                                                                                                
+![](OutputImages/mdf1.jpg)                                                
+
+## Reconstructed Image                                                
+![](OutputImages/f2'.jpg)
