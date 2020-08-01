@@ -1,4 +1,4 @@
-**[Edge Detection]{.ul}**
+# **Edge Detection**
 
 1.  **Author's Name and Email.**
 
@@ -36,7 +36,13 @@
 
 > For Video Frame 1:
 
-  **Original image**                                                                                                                    **Edged image**
+  **Original image**       
+  ![](Code/OneStopNoEnter1cor0249.bmp)
+  ![](Code/OneStopNoEnter1cor0251.bmp)
+  ![](Code/seq00.avi0426g.bmp)
+  ![](Code/seq00.avi0428g.bmp)
+
+  **Edged image**
   ------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------
   ![A person standing in a room Description automatically generated](media/image1.png){width="2.6666666666666665in" height="2.0in"}     ![](media/image2.jpg){width="2.6666666666666665in" height="2.0in"}
   ![A person standing in a room Description automatically generated](media/image3.png){width="2.6666666666666665in" height="2.0in"}     ![](media/image4.jpg){width="2.6666666666666665in" height="2.0in"}
