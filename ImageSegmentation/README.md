@@ -19,12 +19,12 @@
 > into separate components. Anything below the threshold is background
 > image and anything above the image is our main image.
 
-2.  converted image into binary image 0 and 255 (black and white)
+    2.  converted image into binary image 0 and 255 (black and white)
 
 > Using the threshold value, we convert the image into binary image.
 > Anything above the threshold is 255 and below is 0.
 
-3.  Applied the 4-connected component algorithm to detect the regions of
+    3.  Applied the 4-connected component algorithm to detect the regions of
     each character in image.
 
 > 4 connected components algorithm is widely used in image segmentation.
@@ -32,7 +32,7 @@
 > places i.e up, down, right, left and then we select the connected
 > components
 
-4.  gray scaled different components of image to highlight different
+    4.  gray scaled different components of image to highlight different
     parts
 
 > For displaying different image segments, I gave each of them with
@@ -43,19 +43,18 @@
 > Results on Image 1:
 
 Threshold = 68.82992950758161
-=============================
 
 > Original Image
 
 ![](code/guide_8bits.bmp)
 
 Binary image
-    ------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------
 
 ![](OutputImages/binary_image.jpg)
 
  Converted Image
-    ------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------
 
 ![](OutputImages/converted_image.jpg)
 
