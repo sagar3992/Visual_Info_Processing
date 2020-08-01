@@ -58,30 +58,17 @@
 
 2.  **Results**
 
-+----------------------------------+----------------------------------+
-| Frame 1                          | Frame 2                          |
-|                                  |                                  |
-| ![A person standing in a room    | ![A person standing in a room    |
-| Description automatically        | Description automatically        |
-| generated](media/image1.p        | generated](media/image2.p        |
-| ng){width="2.6666666666666665in" | ng){width="2.6666666666666665in" |
-| height="2.0in"}                  | height="2.0in"}                  |
-+==================================+==================================+
-| Motion Vectors                   |                                  |
-|                                  |                                  |
-| ![A picture containing photo,    |                                  |
-| holding, person, front           |                                  |
-| Description automatically        |                                  |
-| generated](media/image3.j        |                                  |
-| pg){width="2.6666666666666665in" |                                  |
-| height="2.0in"}                  |                                  |
-+----------------------------------+----------------------------------+
-| Reconstructed Image              |                                  |
-|                                  |                                  |
-| ![A person standing in front of  |                                  |
-| a building Description           |                                  |
-| automatically                    |                                  |
-| generated](media/image4.j        |                                  |
-| pg){width="2.8564807524059495in" |                                  |
-| height="2.142361111111111in"}    |                                  |
-+----------------------------------+----------------------------------+
+
++------------------------------------+------------------------------------+
+| Frame 1                            | Frame 2                            |
+|                                    |                                    |
+|![](code/OneStopNoEnter1cor0249.bmp)|![](code/OneStopNoEnter1cor0251.bmp)|
++====================================+====================================+
+| Difference Image                                                        |
+|                                                                         |
+|![](OutputImages/mdf1.jpg)                                                |
++------------------------------------+------------------------------------+
+| Reconstructed Image                                                     |
+|                                                                         |
+| ![](OutputImages/f2'.jpg)                                               |
++------------------------------------+------------------------------------+
