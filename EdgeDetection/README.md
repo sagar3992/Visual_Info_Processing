@@ -36,7 +36,9 @@
 
 > For Video Frame 1:
 
-  **Original image**       
+  **Original image**  
+    ------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------
+
   ![](Code/OneStopNoEnter1cor0249.bmp)
   ![](Code/OneStopNoEnter1cor0251.bmp)
   ![](Code/seq00.avi0426g.bmp)
@@ -44,7 +46,7 @@
 
   **Edged image**
   ------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------
-  ![A person standing in a room Description automatically generated](media/image1.png){width="2.6666666666666665in" height="2.0in"}     ![](media/image2.jpg){width="2.6666666666666665in" height="2.0in"}
-  ![A person standing in a room Description automatically generated](media/image3.png){width="2.6666666666666665in" height="2.0in"}     ![](media/image4.jpg){width="2.6666666666666665in" height="2.0in"}
-  ![A car parked on a city street Description automatically generated](media/image5.png){width="2.5in" height="1.6666666666666667in"}   ![](media/image6.jpg){width="2.6665616797900262in" height="1.7774114173228346in"}
-  ![A car parked on a city street Description automatically generated](media/image7.png){width="2.5in" height="1.6666666666666667in"}   ![](media/image8.jpg){width="2.6734142607174105in" height="1.7822626859142607in"}
+![](OutputImages/new1.jpg)
+![](OutputImages/new2.jpg)
+![](OutputImages/new3.jpg)
+![](OutputImages/new4.jpg)
