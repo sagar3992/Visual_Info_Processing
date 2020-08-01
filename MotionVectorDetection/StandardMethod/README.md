@@ -37,16 +37,22 @@
 
 5.  **Results**
 
-+------------------------------------+------------------------------------+
-| Frame 1                            | Frame 2                            |
-|                                    |                                    |
-|![](Code/OneStopNoEnter1cor0249.bmp)|![](Code/OneStopNoEnter1cor0251.bmp)|
-+====================================+====================================+
-| Difference Image                                                        |
-|                                                                         |
-|![](OutputImages/df1.jpg)                                                |
-+------------------------------------+------------------------------------+
-| Reconstructed Image                                                     |
-|                                                                         |
-| ![](OutputImages/f2'.jpg)                                               |
-+------------------------------------+------------------------------------+
+ Frame 1 
+ ------------------------------------------------
+ ![](Code/OneStopNoEnter1cor0249.bmp)
+ 
+ Frame 2 
+ ------------------------------------------------                                                                     
+![](Code/OneStopNoEnter1cor0251.bmp)
+
+
+
+## Difference Image                                                        
+
+![](OutputImages/df1.jpg)                                                
+
+
+## Reconstructed Image
+
+![](OutputImages/f2'.jpg)                                               
+
